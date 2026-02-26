@@ -1,16 +1,13 @@
-## Hi there 👋
+#  Murilo Hilleshaim da Costa 
 
-<!--
-**Murilohille/Murilohille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor`**
 
-Here are some ideas to get you started:
+	Meu nome é Murilo Hilleshaim da Costa, tenho 17 anos, sou natural de Joinville. Concluí o ensino médio no SESI-SENAI, com curso Desenvolvimento de Sistemas. Atualmente estou cursando Engenharia de Software na Católica, gosto muito de programação e quero aprender mais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🤖 Linguagens e Tecnologias
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,c,python,js,php,mysql,figma"/>
+  </a>
+
